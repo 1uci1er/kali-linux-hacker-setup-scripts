@@ -1,6 +1,7 @@
 # kali-linux-hacker-setup-scripts
 A comprehensive guide to setting up and optimizing Kali Linux for hacking, CTFs, and cybersecurity. Includes essential scripts, tools, and configurations for a seamless hacking experience.
 ---
+![my_kali_linux_setup](https://github.com/user-attachments/assets/a64bcd44-2c84-4044-8dad-43ea24e3fd6a)
 
 # Kali Linux Setup and Optimization Guide
 
